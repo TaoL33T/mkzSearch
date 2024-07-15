@@ -10,3 +10,8 @@ Ex:
 ```python mkzSearch.py --genre Romantic```
 
 Verbose doar arată ce se întâmplă în spate.
+
+# ToDo:
+- Să stochez undeva toate genurile ca utilizatorul să știe ce genuri sunt disponibile pentru căutare.
+
+Nu știu dacă merge pe windows, eu folosesc Arch Linux. Ar trebui să funcționeze, totuși.
